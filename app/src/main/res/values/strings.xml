@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">smzdm</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_description">签到</string>
+    <string name="app_content">在辅助功能中，选择开启smzdm插件</string>
+    <string name="app_title">使用方法</string>
+</resources>
