@@ -1,5 +1,6 @@
 #什么值得买 自动签到 Android端
 这个插件安装后，每天进入什么值得买APP可以自动签到，每天一次。
+
 前往[**Release**](https://github.com/tttony3/smzdm/releases/)下载最新可用版本。
 > 使用方法：安装app,进入app点击设置,在辅助功能-服务中，开启smzdm
   
