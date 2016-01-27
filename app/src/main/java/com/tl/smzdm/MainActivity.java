@@ -14,7 +14,7 @@ import android.widget.Button;
 
 /**
  * Created by tttony3 on 16-1-26.
- * smzdm
+ * smzdm.
  */
 public class MainActivity extends AppCompatActivity {
     private final Intent mAccessibleIntent =

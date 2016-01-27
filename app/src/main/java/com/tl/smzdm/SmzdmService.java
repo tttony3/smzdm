@@ -25,7 +25,7 @@ import java.util.zip.DataFormatException;
 
 /**
  * Created by tttony3 on 16-1-26.
- * smzdm
+ * smzdm.
  */
 public class SmzdmService extends AccessibilityService {
     private AccessibilityNodeInfo rootNodeInfo;
